@@ -1,8 +1,6 @@
 ### Olá, eu sou a Mayla!
 
 
-- 😄 Atualmente estagiária de desenvolvimento.
-- 🌱 Cursando Técnico em Informática (em breve ADS 👀).
-- 🔭 Interesse na área de backend, desenvolvimento em Java, C#, Phyton e PHP.
-- 💬 Aberta para qualquer ideia e/ou conselho.
+- 😄 Estagiária de desenvolvimento backend.
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
 - ⚡ Fun fact: Ravenclaw by spirit and Hufflepuff by heart!
