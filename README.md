@@ -37,10 +37,4 @@
 ![Maven](https://img.shields.io/badge/Maven-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## Fale comigo por:
-
-<div> 
-<a href = "mailto:maylajamile16@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mayla-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDE59&height=120&section=footer"/>
