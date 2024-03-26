@@ -1,7 +1,7 @@
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://cdn.discordapp.com/attachments/1221951787318378607/1222004492464029766/Hi_Im_mayla.png?ex=6614a35e&is=66022e5e&hm=a534ed76fe3214f34b10dff0108517b352332b8085a640b6074708cbbf4a25b8&"/>
 
-<p align="center">Movida pela paixão em resolver problemas e encontrar soluções criativas. ❤️</p>
+<h3 align="center">Movida pela paixão em resolver problemas e encontrar soluções criativas. ❤️</h3><br>
 
 ## Tenho conhecimento em:
 
