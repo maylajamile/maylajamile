@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://cdn.discordapp.com/attachments/1221951787318378607/1222004492464029766/Hi_Im_mayla.png?ex=6614a35e&is=66022e5e&hm=a534ed76fe3214f34b10dff0108517b352332b8085a640b6074708cbbf4a25b8&"/>
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/maylajamile/github-images/blob/041414446d872b86a4a95f58696d7142d7b2046f/image11.png"/>
 
 <h3 align="center">Movida pela paixão em resolver problemas e encontrar soluções criativas. ❤️</h3><br>
 
